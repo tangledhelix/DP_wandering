@@ -14,59 +14,44 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 ### Things to revisit ###
 
-* [ ] Example item
+* [ ] This project uses Polytonic Greek; keep an eye out
 
 ### Project manager notes ###
 
-<div style="text-align:center"><h3>ABOUT THE BOOK</h3></div>
+Author: [Moncure D. Conway](https://en.wikipedia.org/wiki/Moncure_D._Conway) (1832-1907).
 
-<h4>Author</h4>
+Publication date: 1881.
 
-<p><a href="https://en.wikipedia.org/wiki/Moncure_D._Conway">Moncure D. Conway</a> (1832-1907).</p>
+Synopsis: An examination of the [Wandering Jew](https://en.wikipedia.org/wiki/Wandering_Jew) trope in folklore and literature.
 
-<h4>Publication date</h4>
+Book structure: [Table of Contents](https://www.pgdp.net/c/tools/page_browser.php?project=projectID60243a9325858&imagefile=005.png).
 
-<p>1881.</p>
+Source: The page images were [taken from here](https://hdl.handle.net/2027/coo1.ark:/13960/t77s88w19).
 
-<h4>Synopsis</h4>
+#### PROOFING
 
-<p>An examination of the <a href="https://en.wikipedia.org/wiki/Wandering_Jew">Wandering Jew</a> trope in folklore and literature.</p>
+**Difficulty level:** Average.
 
-<h4>Book structure</h4>
-<p>
-<a href="https://www.pgdp.net/c/tools/page_browser.php?project=projectID60243a9325858&imagefile=005.png">Table of Contents</a>.
-</p>
+Wordcheck is **mandatory** in the P2 and P3 rounds; I respectfully request that P1 proofers use it as well.
 
-<h4>Source.</h4>
+Polytonic Greek has been enabled for this project.
 
-<p> The page images were  <a href="https://hdl.handle.net/2027/coo1.ark:/13960/t77s88w19"> taken from here</a>.</p>
+#### FORMATTING
 
-<hr />
+**Difficulty level:** Average.
 
-<div style="text-align:center"><h3>PROOFING</h3></div>
+There are no special instructions for this book. Please
+follow the normal [Proofing](https://www.pgdp.net/wiki/DP_Official_Documentation:Proofreading/Proofreading_Guidelines) and [Formatting Guidelines](https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines).
 
-<p><b>Difficulty level:</b> Average.</p>
-
-<p>Wordcheck is <b>mandatory</b> in the P2 and P3 rounds; I respectfully request that P1 proofers use it as well.</p>
-
-<p>Polytonic Greek has been enabled for this project.</p>
-
-<hr />
-
-<div style="text-align:center"><h3>FORMATTING</h3></div>
-
-<p><b>Difficulty level:</b> Average.</p>
-
-<hr />
-
-<p>There are no special instructions for this book. Please
-follow the normal <a href="https://www.pgdp.net/wiki/DP_Official_Documentation:Proofreading/Proofreading_Guidelines">Proofing</a> and <a href="https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines">Formatting Guidelines</a>.</p>
-
-<p>Questions may be posted in the Project Forum (link above).</p>
-
-<hr />
+Questions may be posted in the Project Forum (link above).
 
 ### Forum notes ###
+
+Watch out for Greek characters. I think Guiguts has some new tools for this.
+
+> I've noticed several cases of the OCR containing a Greek Capital Letter Mu (ie unicode U+039C) instead of what should clearly from context be the Latin letter M.
+>
+> It might be worth doing a search across the entire project in post processing to catch any other instances that have slipped through.
 
 ### General notes ###
 
