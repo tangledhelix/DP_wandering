@@ -77,7 +77,9 @@ Questions may be posted in the Project Forum (link above).
 
 ### Forum notes ###
 
-Watch out for Greek characters. I think Guiguts has some new tools for this.
+Watch out for Greek characters. I think Guiguts may have some new tools for this.
+
+Search with `\p{Greek}`; as mentioned in the forum post cited below, a few strays are in the English text, it seems like; handle those. There only seem to be 2 lines of legitimate Greek.
 
 > I've noticed several cases of the OCR containing a Greek Capital Letter Mu (ie unicode U+039C) instead of what should clearly from context be the Latin letter M.
 >
