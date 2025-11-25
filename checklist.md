@@ -21,8 +21,8 @@ cd ~/dp/util
 * [x] `File → Project → Configure Page Labels...`. Check for roman numerals and unnumbered pages. Go to end of book to check page numbers line up.
 
 ### Sequential Inspection of Text
-* [ ] Turn on `Auto Img`
-* [ ] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
+* [x] Turn on `Auto Img`
+* [x] Check for chapter/section spacing (2,4). Regex: `(^$\n^$\n^$\n^$\n|^$\n^$\n)` and use "Highlight All".
 
 Check for:
 

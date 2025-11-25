@@ -15,6 +15,36 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 ### Things to revisit ###
 
 * [ ] This project uses Polytonic Greek; keep an eye out
+    * [ ] 076
+* [ ] footnotes throughout book
+* [ ] First words of chapters rendered in smallcaps
+* [ ] 005: table of contents
+* [ ] 028: poetry
+* [ ] 039: poetry
+* [ ] 050: poetry
+* [ ] 077: poetry (2)
+* [ ] 126-127: poetry
+* [ ] 149: poetry
+* [ ] 150: poetry
+* [ ] 152: poetry
+* [ ] 157: poetry
+* [ ] 159-160: poetry
+* [ ] 162: poetry (2)
+* [ ] 165-166: poetry
+* [ ] 219: poetry / blackletter
+* [ ] 220: poetry
+* [ ] 222: poetry
+* [ ] 229: poetry
+* [ ] 230: poetry
+* [ ] 236: poetry
+* [ ] 237: poetry (2)
+* [ ] 239: poetry
+* [ ] 239-242: poetry
+* [ ] 246: poetry (2)
+* [ ] 249-250: poetry
+* [ ] 285: poetry
+* [ ] 286: poetry
+* [ ] 292: poetry
 
 ### Project manager notes ###
 
@@ -56,6 +86,9 @@ Watch out for Greek characters. I think Guiguts has some new tools for this.
 ### General notes ###
 
 ### Illustrations ###
+
+* [ ] no cover provided; use title page?
+* [ ] 001 publisher logo
 
 ### Proofer's notes ###
 
