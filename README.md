@@ -16,9 +16,11 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 
 * [ ] This project uses Polytonic Greek; keep an eye out
     * [ ] 076
-* [ ] footnotes throughout book
+* [ ] Footnotes throughout book
+* [ ] Several inconsistent uses noted, of single & double quotes (i.e. single opens, double closes, or vice-versa). Also strange usage such as double-quotes on a phrase and the reply is in single-quotes. Review for consistency.
 * [ ] First words of chapters rendered in smallcaps
 * [ ] 005: table of contents
+* [ ] 011: birth year & year being a bishop for de Mousket are impossible
 * [ ] 028: poetry
 * [ ] 039: poetry
 * [ ] 050: poetry
@@ -31,6 +33,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] 159-160: poetry
 * [ ] 162: poetry (2)
 * [ ] 165-166: poetry
+* [ ] 171: right-aligned (signature on blockquote)
 * [ ] 219: poetry / blackletter
 * [ ] 220: poetry
 * [ ] 222: poetry
@@ -94,11 +97,46 @@ Search with `\p{Greek}`; as mentioned in the forum post cited below, a few stray
 
 ### Proofer's notes ###
 
+p. 221: `lese[**typo?]-humanity`
+
+I used a custom GPT configured for PP research and fed it the entire book, then inquired about this passage and the meaning of this specific term. Below is a portion of its response. See also [Wikipedia: Lèse-majesté](https://en.wikipedia.org/wiki/Lèse-majesté).
+
+> “lese-humanity” is Conway’s deliberate adaptation of the term lèse-majesté (a crime against a sovereign).
+>
+> Here, Conway applies the structure metaphorically:
+>
+> **lèse-humanité = an offense against humanity itself**
+>
+> In the story, Ahasuerus finally realizes that the true enormity of his crime was not an insult against God in a theological or metaphysical sense, but a violation of what is most sacred in human beings. It was a crime against compassion, solidarity, and the shared dignity of humankind.
+
+Based on this, I left it as-printed.
+
+----
+p. 213: `Icy Finit[**finit?] le mystère d'Ahasuérus.`
+
+Here the proofer questions the case of the initial "f" in "Finit". After spending some time reviewing blackletter documentation, I initially guessed uppercase due to extra flourishes.
+
+I queried ChatGPT for a while to analyze the text and try to isolate its source (which it identified as Édouard Quinet’s Romantic drama Ahasvérus (1833)). While working only in text, ChatGPT consistently thought it was lowercased.
+
+Finally, I uploaded a screenshot of the text to it for analysis, asking for a letter-by-letter analysis of upper- vs. lower-case, and as I had originally thought, it now concluded that the F in Finit was printed as upper-case in this work. Therefore, not taking the advice from this proofer note, and leaving as uppercase.
+
 ### Joined hyphenated words ###
 
 ### Spellcheck ###
 
 ### Transcriber's notes ###
+
+p. 5: changed “rimće” to “rimée” (the Chronique rimée of Philippe de Mousket)
+
+p. 79: changed “nside” to “inside” (serpents and iron prongs inside)
+
+p. 121 (footnote): changed “généralment” to “généralement” (et généralement comme toutes)
+
+p. 148: changed “Shylook’s” to “Shylock’s” (his part of Shylock’s penalty)
+
+p. 230: changed “guage” to “gauge” (Nor in security scrupulous to gauge)
+
+p. 254: changed “taughthim” to “taught him” (had taught him otherwise)
 
 ### HTML file review ###
 The iPhone/iPad simulators can't use `file://` URLs. Start a local web server with `python3 -m http.server` in the project directory and going to `localhost:8000` in Safari on the device. 

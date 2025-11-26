@@ -216,7 +216,7 @@ adds that this story was attested by Richardus de
 Argentomio, who visited the East.
 
 The same archbishop is quoted for the story told
-in the <i>Chronique rimée</i>[** rim['c]e fixed] of Philippe de Mousket, born
+in the <i>Chronique rimée</i> of Philippe de Mousket, born
 1220, Bishop of Tournai in 1682. When the Jews
 were leading Jesus to execution, "this man" (no name
 is given) said, "Wait for me: I also am going to see
@@ -799,7 +799,7 @@ Butter, 1640.
 
 It should also be stated that there were a number
 of treatises written against the story, such as--I. <i>De
-duobus testibus vivis passionis Christi.</i> <i>Jena</i>, 1668[**include date in italics markup?]
+duobus testibus vivis passionis Christi.</i> <i>Jena</i>, 1668
 (written by S. Niemann); 2. <i>Meletea historia de Judæo
 immortali</i>, 1668 (written by J. Freutzel); 3. <i>Diss.
 hist. de Judæo non mortali</i>, 1689 (written by Martin
@@ -1136,7 +1136,7 @@ known as Idacanzas.[A]
 
 It is interesting to compare such primitive forms of
 
-[Footnote A: Tylor, <i>Primitive Culture</i>, i. 318[**P2: .]]
+[Footnote A: Tylor, <i>Primitive Culture</i>, i. 318.]
 -----File: 043.png---------------------------------------------------------
 the myth with those assumed by it amid the advanced
 phases of Animism. Tithonus, for whom Eos obtained
@@ -1706,7 +1706,7 @@ connected with Enoch as forged runes and verses
 are now attributed to Mother Shipton. (It will be
 remembered that the first English book on this theme
 was entitled <i>The Wandering Jew telling fortunes to
-Englishmen, 1640</i>[**exclude year from markup?].) It might have been supposed
+Englishmen</i>, 1640.) It might have been supposed
 that Enoch would be present at the Transfiguration
 of Jesus. Paul had spoken of him with honour;
 Jude quoted from him; and it is probable that he
@@ -1739,7 +1739,7 @@ me, and with his voice greeted me and said, Thou art
 the Son of Man who is born to righteousness; and
 righteousness dwells over thee, and the righteousness
 of the Head of Days leaves thee not." That a claim
-for Enoch's Messiaship[**Messiahship?] is intended appears in the
+for Enoch's Messiaship is intended appears in the
 event then described. Enoch's body melts away, and
 his spirit is transformed into a heavenly body. Enoch
 had described the glory of the renovated earth; but
@@ -1989,7 +1989,7 @@ there might easily grow from his legend that of the
 Seven Sleepers.
 
 The familiar form of this legend is that given by
-Gibbon (xxxiii[**P2 missing .]), who follows Gregory of Tours, as an
+Gibbon (xxxiii.), who follows Gregory of Tours, as an
 incident of the Decian persecution. It is also in the
 Koran (xviii.). Goethe follows the Koran mainly in
 his poem on the subject, but assigns the legend to a
@@ -2345,7 +2345,7 @@ offender against one's will. The divine method is more
 ingenious. In the romance of Huon de Bordeaux
 (13th Cent.) by Huon de Villeneuve, the writer reports
 having seen a cask, with serpents and iron prongs
-nside[**P2 inside ?], rolling rapidly along. Cain is shut in it, and
+inside, rolling rapidly along. Cain is shut in it, and
 therein must roll on till the end of the world. This
 rolling cask would appear to be the prison and punishment
 of Malchus, adapted to the idea of perpetual
@@ -3414,8 +3414,8 @@ arrives at a spot whose significance increases with
 time. This is the church called <i>Domine quo vadis</i>.
 There, says the legend, St. Peter, once more flying
 from danger, met Jesus, and said, "Lord, whither
-goest thou?'[**P2: unmatched] Jesus answered, '<i>Venio Romam iterum
-crucifigi</i>.[**include period in italics?]' Whereupon Peter returned, and met his
+goest thou?" Jesus answered, '<i>Venio Romam iterum
+crucifigi.</i>' Whereupon Peter returned, and met his
 fate--that hard one of a mythical martyrdom, followed
 by resurrection as a Pontifical Jupiter, wielding
 his keys as thunderbolts. A fac-simile of the holy
@@ -3516,7 +3516,7 @@ Wandering Jew probably first began its career.[B]
 [Footnote A: Robert Browning: "Holy-Cross Day."]
 
 [Footnote B: "Quel est donc l'origine et la date de cette légende? Je la
-crois, comme celle du voile de sainte Véronique et généralment[**P2: généralement?]
+crois, comme celle du voile de sainte Véronique et généralement
 comme toutes les histoires relatives à la Passion, née vers le
 quatrième siècle, à Constantinople, et contemporaine de sainte
 Hélène et de la découverte de la vraie croix. Mais ces traditions
@@ -3658,7 +3658,7 @@ the figure the reflection of a period when the diabolical
 theory of the Jew was serious, and no laughing
 matter. Similarly, in the old Miracle Plays, Satan
 was a serious figure, though he gradually became a
-mere laughing-stock,[** missing space, corrected] like Pantaloon in the pantomimes.
+mere laughing-stock, like Pantaloon in the pantomimes.
 The stage-Jew shared the same decline as the stage-devil--his
 supposed inspirer. In his malignant and
 formidable aspect he was, indeed, in Shakspeare's
@@ -3898,7 +3898,7 @@ sacrifice not accepted as it was in the case of Vishnu,
 and to some extent in that of Usinára, whose earthly
 life terminates. With Buddha the principle of remission
 supersedes that of sacrifice. His argument
-against the Brahmanic[**p3: uncapitalized on previous page] sacrifice of life was strong.
+against the Brahmanic sacrifice of life was strong.
 When they pointed to these predatory laws of nature
 in proof of their faith that the gods approved the infliction
 of pain and death, he asked them why they did
@@ -4017,7 +4017,7 @@ horrible altar has just passed from his prison to an
 -----File: 145.png---------------------------------------------------------
 asylum. To the many who have visited him he puts
 questions hard to be answered. "Do you believe the
-Bible or not?"[**P3 ' in scan] he says. "If you do, and have read
+Bible or not?" he says. "If you do, and have read
 the account of Abraham, why should you deny that
 God could require a man to sacrifice his child? He
 so required of me. I <i>did</i> hope and believe that he
@@ -4286,7 +4286,7 @@ render him, Antonio?" The Christian Gratiano interposes,
 "A halter gratis: nothing else, for God's
 sake." A natural appeal for the victim-loving God;
 but the forgiving Christ is heard, however faintly, above
-the Christian, and Antonio forgives his part of Shylook's[** typo for Shylock's]
+the Christian, and Antonio forgives his part of Shylock's
 penalty.
 
 "Vengeance is mine," says the deity derived by
@@ -4605,7 +4605,7 @@ Another instance of the chirpings to which
 great myths are reduced may be heard from our
 above-mentioned "Seven Whistlers," of which ingenious
 use is made by the authoress of "That Lass o'
-Lowrie[**Lowrie's]." Mr. James Pearson contributed to "Notes
+Lowrie." Mr. James Pearson contributed to "Notes
 
 [Footnote A: <i>Folk-lore of the Northern Counties.</i> Published for the
 Folk-lore Society by Satchell, Peyton and Co. 1879. P. 82.]
@@ -5317,9 +5317,9 @@ child.
 "No, never my child, never!" the tortured woman
 cries; she prefers another year's ride, over the sea.
 -----File: 190.png---------------------------------------------------------
-'[** " ?]Take her, she longs still for a third trial," says the
+"Take her, she longs still for a third trial," says the
 laughing Devil to the Dutchman; but he replies:
-'[** " ?]The trial was great enough, she is released. Her
+"The trial was great enough, she is released. Her
 force was superior to that of a man. <i>A man would
 not have spared the soul of his child more than he did his
 own.</i>" She wakes to find her child sleeping sweetly
@@ -6133,7 +6133,7 @@ Then Eternity crumbles the worlds, the sphinx, and
 even the void, ending with a triumphant <i>Moi</i>.
 
 /*
-Icy Finit[**finit?] le mystère d'Ahasuérus.
+Icy Finit le mystère d'Ahasuérus.
 Priez pour celui qui l'écribit.
 */
 
@@ -6382,7 +6382,7 @@ delicious pain in his expiation; he lived, suffered and
 loved along with humanity. He now comprehended
 the enormity of his crime, which God had pursued so
 relentlessly: it was not his insult to Divinity, but his
-lese[**typo?]-humanity. He now felt that he might hope that
+lese-humanity. He now felt that he might hope that
 his expiation would be complete, and in the last day
 he would find repose in the love of Christ.
 -----File: 228.png---------------------------------------------------------
@@ -6608,7 +6608,7 @@ says to the soul:
   Of black Avernus, which who tastes, resigned
 All hope of change, becomes the demon's slave;
   But Heaven's high justice, nor in mercy blind,
-Nor in security scrupulous to guage[** gauge]
+Nor in security scrupulous to gauge
   Each blot, each wrinkle, of the human mind,
 Has written on the adamantine page,
   That thou no joys of paradise mayst know,
@@ -7372,14 +7372,14 @@ the Jewess marry the Christian. Just as we are
 listening to hear the marriage-bells ring out for the
 lovers, lo, they turn out to be brother and sister! So,
 the religious equality having been proclaimed a
-hundred and fifty years after Shakspeare[**Shakespeare?] had proclaimed
+hundred and fifty years after Shakspeare had proclaimed
 the human equality, Lessing leaves it to a
 like time to establish the social equality of Jew and
 Christian.
 
 But was this line drawn altogether by the Christian?
 Lessing's friendship with Moses Mendelssohn had
-taughthim[**taught him] otherwise. When Michaelis, the theologian,
+taught him otherwise. When Michaelis, the theologian,
 read his early play, "The Jews," he wrote a criticism
 in which he expressed a doubt whether an oppressed
 and despised race could produce such a man as the
@@ -7434,7 +7434,7 @@ together seek to impose upon Englishmen of the
 nineteenth century the theological test of belief in an
 oath-bound and oath-guaranteeing deity in which no
 educated man can possibly believe. The orthodox
-male Jew thanks Jahve[**Yahweh] in his liturgy that he was not
+male Jew thanks Jahve in his liturgy that he was not
 made a woman; and the male Christian responds by
 excluding women from political rights. While in
 Germany the Christian persecutes the Jew as Antichrist,
