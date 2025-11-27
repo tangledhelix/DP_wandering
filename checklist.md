@@ -95,17 +95,17 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] Search for blocks: regex (no case match) `^/[#*$PCRFLXI]` and move footnotes outside of blocks as appropriate
 
 ### Fixup Illustration locations
-* [ ] Use `Tools → Illustration Fixup` to move illos between paragraphs.
+* [x] Use `Tools → Illustration Fixup` to move illos between paragraphs.
   * Note the "Preserve Illo's Page Number" checkbox - using this will optimize for the page number of the illo and may dislocate the page numbering of text. Probably better to not use it for midparagraph images?
   * Choose an illo from the list and use the Move Up/Down buttons to relocate it.
 
 ### Remove Visible Page Breaks
-* [ ] Run `Tools → Page Separator Fixup` to remove visible page separators
+* [x] Run `Tools → Page Separator Fixup` to remove visible page separators
 
 ### Format Front Matter
-* [ ] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
-* [ ] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
-* [ ] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
+* [x] Format the title page, preserving as much of the original material as possible. Protect in `/X...X/` (no rewrap, no indent) or `/F...F/` (the same, except that it will be centered in the html version).
+* [x] Edit the TOC. Find each matching chapter head; make sure heads are 1:1 with TOC. Protect TOC with `/X...X/`. Note that your TOC will probably need to be indented to prevent rewrapping, particularly if you use multiple spaces to align page numbers.
+* [x] If book has illustrations, edit or create *List of Illustrations* (**Note:** this is not a requirement). Make sure it is 1:1 with `[Illustration]` captions. Protect with `/X...X/`.
 
 ### Add Noted Rewrap Markers
 * [ ] If the to-do list has any notes about adding [rewrap markers](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) (such as indexes or poetry), make those changes.
