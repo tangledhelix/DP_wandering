@@ -90,6 +90,10 @@ Search with `\p{Greek}`; as mentioned in the forum post cited below, a few stray
 
 ### General notes ###
 
+> From the same source came, True likeness of the whole form of a Jew, seen by all, from Jerusalem, who pretends, etc. First printed at Augspurg, 1619.
+
+Research indicates that "Augspurg" is a legitimate, though archaic, alternative spelling of Augsburg.
+
 ### Illustrations ###
 
 * [ ] no cover provided; use title page?
