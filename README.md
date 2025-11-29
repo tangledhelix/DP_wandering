@@ -132,6 +132,8 @@ Finally, I uploaded a screenshot of the text to it for analysis, asking for a le
 
 p. 5: changed “rimće” to “rimée” (the Chronique rimée of Philippe de Mousket)
 
+p. 44: changed “prononnced” to “pronounced” (destiny pronounced by his father)
+
 p. 79: changed “nside” to “inside” (serpents and iron prongs inside)
 
 p. 121 (footnote): changed “généralment” to “généralement” (et généralement comme toutes)
