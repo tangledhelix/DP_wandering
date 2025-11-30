@@ -1,6 +1,6 @@
 {
-  "md5checksum": "3f23ce0d79518efb796e19377ccaed9d",
-  "insertpos": "5863.0",
+  "md5checksum": "c673975dbb13fa695bfb41405eb2e221",
+  "insertpos": "3678.28",
   "insertpospeer": "7829.0",
   "pagedetails": {
     "001": {
@@ -1794,7 +1794,7 @@
   },
   "imagedir": "/Users/dan/dp/pp/wandering/pngs",
   "projectid": "projectID60243a9325858",
-  "languages": "en",
+  "languages": "en+fr+de",
   "charsuites": {
     "Basic Latin": true
   },
