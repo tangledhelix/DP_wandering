@@ -158,10 +158,10 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ### Curly quotes
-* [ ] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split.
+* [x] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split.
     * `Tools → Convert to Curly Quotes`
     * Various fixup tools included on this panel
-* [ ] If needed, validate quotes pairings by searching for `[“”‘’]`
+* [x] If needed, validate quotes pairings by searching for `[“”‘’]`
 
 ### Unicode EN dashes
 For now, process only EN dash. The EM dash and long dash (2x EM) are left for after the text/html split.
