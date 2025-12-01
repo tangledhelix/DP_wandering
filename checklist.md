@@ -146,16 +146,16 @@ Instructions for `/* */` and `/# #/` blocks:
 * [x] `Tools → Bookloupe`.
 
 ### Spelling and Distance Checks
-* [ ] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
-* [ ] Use `Tools → Word Distance Check`.
+* [x] Use `Tools → Spelling`. Proceed through the document, correcting words or adding them to the project dictionary as appropriate.
+* [x] Use `Tools → Word Distance Check`.
 
 ### Fix Sidenotes
-* [ ] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
+* [x] Read the [discussion](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Sidenotes). Step through sidenotes with: Search & Replace of `[S`, not regex, not whole word, ignore case. Click `Search` to find each Sidenote.
   * Compare to page image. Move note above paragraph if feasible.
   * Otherwise, position it above the sentence to which it applies, with blank lines to prevent rewrapping if you decide that is best.
 
 ### Fix Poetry Line Numbers
-* [ ] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
+* [x] If the book has poetry that uses line numbers, read [this page](https://www.pgdp.net/wiki/PPTools/Guiguts/Fixup#Poetry_Line_Numbers) and align the line numbers consistently.
 
 ### Curly quotes
 * [ ] Curly quotes are [recommended](https://www.pgdp.net/phpBB3/viewtopic.php?f=3&t=73290) in both the text and HTML versions. Now is the time to put them in, before the split.
