@@ -185,28 +185,28 @@ For now, process only EN dash. The EM dash and long dash (2x EM) are left for af
 ## Prepare the Plain Text Version
 We now proceed to create a Plain Text Version of the book.
 
-* [ ] Re-open `wandering-utf8.txt` (if not still open).
+* [x] Re-open `wandering-utf8.txt` (if not still open).
 
 ### Convert `<tb>`, Italic, Bold, and Smallcap
-* [ ] `Text → Convert Markup`:
-  * [ ] Convert [inline formatting](https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#Formatting_at_the_Character_Level:).
-  * [ ] Convert [thought breaks](https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#Thought_Breaks_.28Extra_Spacing.2FDecoration_Between_Paragraphs.29).
-  * [ ] Convert [smallcaps](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Guide_to_smallcaps).
+* [x] `Text → Convert Markup`:
+  * [x] Convert [inline formatting](https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#Formatting_at_the_Character_Level:).
+  * [x] Convert [thought breaks](https://www.pgdp.net/wiki/DP_Official_Documentation:Formatting/Formatting_Guidelines#Thought_Breaks_.28Extra_Spacing.2FDecoration_Between_Paragraphs.29).
+  * [x] Convert [smallcaps](https://www.pgdp.net/wiki/DP_Official_Documentation:PP_and_PPV/Guide_to_smallcaps).
 
 ### Fix ASCII Tables
 **Pending implementation in GG2?**
 
-* [ ] Search for `/*` (no regex) and step through any tables
+* [x] Search for `/*` (no regex) and step through any tables
   * Compare to page image; reformat to best convey author intent.
   * DO NOT REMOVE REWRAP MARKERS.
   * To indent entire table during rewrap, change opening rewrap marker to e.g. `/*[4]` for 4-space indent.
   * For complex tables, try using `Txt → ASCII Table Effects` to reformat?
-* [ ] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
+* [x] Try this regex to validate that all border characters were replace with box drawing `[=+|-]`
 
 ### Rewrap and Clear Rewrap Markers
-* [ ] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before wrapping
-* [ ] Save the file if any unsaved changes.
-* [ ] `Tools → Rewrap All`.
+* [x] Search for `^/[*$pcrflxi]` (regex, no match-case) and make any desired [rewrap marker](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/Tools_Menu#Rewrap_Markers) changes before wrapping
+* [x] Save the file if any unsaved changes.
+* [x] `Tools → Rewrap All`.
 * [ ] Page through entire text, looking for improper indentation. If found, re-open, clicking NO when asked if you want to save the edits. Find and fix broken rewrap markups. Repeat `Tools → Rewrap All`.
 * [ ] Search `  [Footnote` (no regex; 2 leading spaces) to find footnotes in blockquotes; move them out of the blockquote.
 * [ ] Under `Tools → Footnote Fixup`, use `Tidy Footnotes`.
