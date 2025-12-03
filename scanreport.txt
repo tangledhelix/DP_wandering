@@ -1,3 +1,7 @@
+﻿SMART QUOTE CHECKS (overlay format)
+suspect punctuation marked with '@' character
+-------------------------------------------------------------------
+
 
 
 
@@ -249,7 +253,7 @@ wretchedness, he could not explain otherwise than that God wished him
 to remain until the Day of Judgment as a living sign against the Jews,
 by which the unbelieving and the godless might be reminded of Christ’s
 death and be turned to repentance. For his part he would be very happy
-if God would take him to heaven out of this vale of tears.
+if God would take him to heaven out of this vale of tears.[@NESK “]
 
 “After this report and conversation, Dr. Paulus of Eizen asked, as
 also did the School-Inspector of Hamburg, who was learned in ancient
@@ -258,7 +262,7 @@ in Eastern countries after Christ’s birth and crucifixion. This man
 gave a very good and exact report of all these ancient events: so that
 people were obliged to believe in him and his story, and went away
 astonished, and saying, that with God all things are possible--but with
-man they are inscrutable.
+man they are inscrutable.[@NESK “]
 
 “As to this Jew’s life it was very quiet and retired. He did not talk
 much, and only when asked a question; and when invited into a house, he
@@ -285,7 +289,7 @@ name lightly.’ All these things Dr. Paulus of Eizen told me with truth
 and sincerity, with many other true circumstances, which, since then,
 I have heard from several old friends who also saw the same man at
 Hamburg with their own eyes. Which things, also, Paul of Eizen saw, and
-has told with truth and earnestness.
+has told with truth and earnestness.[@NESK “]
 
 “Anno 1575. The Secretary Christoph Krause and Magistrate Jacobus von
 Holstein had been sent as ambassadors to the Royal Court of Spain, and
@@ -294,19 +298,19 @@ in the royal [army]; and when they had returned home again, being near
 Schleswig, they solemnly related that they had seen this wonderful man
 in Spain, with the identical appearance, costume, manners, and mode of
 life. They had spoken to him personally; and said that at the same time
-many besides themselves heard him speak good Spanish.
+many besides themselves heard him speak good Spanish.[@NESK “]
 
 “Anno 1599. In Christ’s month, a very trustworthy person wrote from
 Brunswick to Strasburg that this wonderful man was then in Vienna,
 in Austria, and that he intended to go from thence into Poland and
 Dantzig, and after that to Moscow. This Ahasuerus has been at Lubeck in
 1601. And also at Reffel in Lieffland, and in Cracow, Poland. He was
-seen and spoken to by many people in Moscow.
+seen and spoken to by many people in Moscow.[@NESK “]
 
 “What now sensible men shall think of all this I leave to themselves.
 The providences of God are marvellous, inscrutable, inexplicable; as
 time goes on they will become more so; and they will only be revealed
-to us at the last day.
+to us at the last day.[@NESK “]
 
 “_Dated at Reffel, the first of August, 1613._--CHRYSOSTOMUS DUDULÄUS
 WESTPHALUS.”
@@ -371,7 +375,7 @@ Lubeck on the 14th January, 1603.”
 Martin Zeiler (_Historici Chronologi et Geographi Celebres Collecti_,
 Ulm, 1653) mentions the Wandering Jew. Among his Letters Zeiler cites
 one by Westphalus, substantially the same as his account (1613) already
-quoted, as having been written to one of his (Westphalus’) friends.
+quoted, as having been written to one of his (Westphalus[@UCSQ]’) friends.
 
 In the year 1644 the ‘Turkish Spy’ writes from Paris (Book III. Letter
 I.) to Ibraham Haly Cheik, a Man of the Law, as follows:
@@ -397,7 +401,7 @@ are who affirm that ’tis one convincing argument of the reality of his
 pretence that he has hitherto escaped a prison, especially in those
 countries where the authors of all innovations are severely punished.
 He has escaped the Inquisitions at Rome, in Spain, and in Portugal,
-which the vulgar will have to be an evident miracle.
+which the vulgar will have to be an evident miracle.[@NESK “]
 
 “One day I had the curiosity to discourse with him in several
 languages; and I found him master of all those that I could speak.
@@ -420,7 +424,7 @@ with atheism. Nor does he spare to reproach the Christian churches: he
 taxes the Roman and Grecian with the pompous idolatry of the heathens;
 he accuses the Æthiopian of Judaism, the Armenian of heresy; and says
 that the Protestants, if they would live according to their profession,
-would be the best Christians.
+would be the best Christians.[@NESK “]
 
 “He told me he was in Rome when Nero set fire to the city and stood
 triumphing on the top of a hill to behold the flames. That he saw
@@ -428,7 +432,7 @@ Saladin’s return from his conquests in the East, when he caused his
 shirt to be carried on the top of a spear, with this proclamation:
 ‘_Saladin, lord of many rich countries, Conqueror of the East_, ever
 victorious and happy, when he dies shall have no other memorial left of
-all his glories, but only this poor shirt.’
+all his glories, but only this poor shirt.’[@NESK “]
 
 “He relates many remarkable passages of Soliman the Magnificent,
 whereof our histories are silent, and says he was in Constantinople
@@ -450,7 +454,7 @@ the Nile, and cause that vast inundation to discover whose origin has
 so much puzzled philosophy. He says that the river Ganges in India is
 broader and deeper than the Nile; that the river Niger in Africa is
 longer by some hundreds of miles; and that he can remember a time when
-the river Nile overflowed not till three months after the usual season.
+the river Nile overflowed not till three months after the usual season.[@NESK “]
 
 “Having professed himself an universal traveller, and that there was no
 corner of the earth where he had not been present, I began to comfort
@@ -481,7 +485,7 @@ this Pentateuch was written in a sort of Hebrew far different from
 that which is now commonly spoken by the rest of the Jews dispersed
 throughout the world. That the number of these Jews was infinite. And,
 finally, he thought that these (if any) were the true posterity of
-those Ten Captive Tribes.
+those Ten Captive Tribes.[@NESK “]
 
 “Having mentioned the destruction of Jerusalem, I asked him where he
 was at that time? He told me, in the Court of Vespasian at Rome; and
@@ -492,17 +496,17 @@ that noble structure, which he described to me as familiarly as if he
 had seen it but yesterday. He says that Josephus wrote partially of the
 seditions in the city, being related to one of the chief ringleaders,
 whom therefore he spared, being loth to stain the reputation of his own
-family to all posterity.
+family to all posterity.[@NESK “]
 
 “I tell thee, sage Cheik, if this man’s pretences be true, he is
 so full of choice memoirs, and has been witness to so many grand
 transactions for the space of sixteen centuries of years, that he may
 not unfitly be called ‘A living Chronology,’ the ‘Protonotary of the
-Christians’ Hegira,’ or principal recorder of that which they esteem
+Christians’ Hegira,[@UCSQ]’ or principal recorder of that which they esteem
 the last _epocha_ of the world’s duration. By his looks one would take
 him for a relic of the Old World, or one of the long-lived fathers
 before the Flood. To speak modestly, he may pass for the younger
-brother of Time.
+brother of Time.[@NESK “]
 
 “It would be endless to tell thee how many other discourses we had of
 his travels and memoirs; till, tired with his company, and judging all
@@ -510,11 +514,11 @@ to be a cheat, I took my leave. I assure thee, he seems to be a man
 well versed in all histories, a great traveller, and one that affects
 to be counted an extraordinary person. The common people are ready to
 adore him; and the very fear of the multitude restrains the magistrates
-from offering any violence to this impostor.
+from offering any violence to this impostor.[@NESK “]
 
 “Live thou in the exercise of thy reason, which will not permit thee to
 be seduced into errors by the subtle insinuations of men. Continue to
-love Mahomet, who honours thee without a fiction.
+love Mahomet, who honours thee without a fiction.[@NESK “]
 
 “Paris, 4th of the 1st Moon of the Year 1644.”
 
@@ -590,7 +594,7 @@ wandered_.
 In the English language the only early story of the Wandering Jew,
 after that in the Chronicle of Matthew of Paris, is the ballad
 contained in _Percy’s Reliques_. This ballad is in black-letter in the
-Pepys’ collection; it follows the Hamburg legend, and was probably
+Pepys[@UCSQ]’ collection; it follows the Hamburg legend, and was probably
 written early in the 17th century. That the legend was well known in
 England in the seventeenth century appears from a satire, in which
 it is utilised, without being narrated, entitled _The Wandering Jew
@@ -1174,7 +1178,7 @@ select few who are charged with secresy.
 This Messiah gathered up in his person the powers and glories of past
 saints and heroes, and it was expected that these would attend him at
 the supreme scene of his coronation on earth. Elias was to appear as
-his herald. In Seder ’Olam Rabbah it is said, “In the second year of
+his herald. In Seder [@UCSQ]’Olam Rabbah it is said, “In the second year of
 the reign of Ahaziah, Elias became hidden, [to be] seen no more until
 King Messiah shall come, when he will be again seen, and hidden a
 second time, and not seen again until Gog and Magog come. And now he
@@ -1671,7 +1675,7 @@ and therein must roll on till the end of the world. This rolling cask
 would appear to be the prison and punishment of Malchus, adapted to the
 idea of perpetual wandering. Al Sâmeri was also called _Al kharaïti_,
 “the turner.” Professor D’Ancona (_Nuova Antologia_, Oct., 1880, “La
-Leggenda dell’ Ebreo Errante”) shows that the story of Malchus is
+Leggenda dell[@UCSQ]’ Ebreo Errante”) shows that the story of Malchus is
 Italian. M. Gaston Paris ascribes it great antiquity, identifying the
 name and idea with the legend of Marcus the Leper, which is old enough
 to be represented in early Italian proverbs. This Marcus, having been
@@ -1875,7 +1879,7 @@ Of these a few characteristic examples may be selected from the very
 large number known to every student of folk-lore.
 
 The periodical assemblies of witches believed to occur in various wild
-places were called “Witches’ Sabbaths,” because Jews were supposed
+places were called “Witches[@UCSQ]’ Sabbaths,” because Jews were supposed
 to be the chief attendants at them. They there received their wages
 for supporting the kingdom of Antichrist. They celebrated a grand
 mass before the Devil. The blood of Christian children was said to be
@@ -2046,7 +2050,7 @@ out after the eternal Huntsman entails the danger of being forced by
 him to eat horseflesh--that is, to return to the old creed. The Holy
 Supper of the Teutonic tribes consisted of horseflesh and mead. When
 Christianity came in, the eating of horseflesh was abolished as a
-heathen custom. But at German witches’ banquets--in other words, at
+heathen custom. But at German witches[@UCSQ]’ banquets--in other words, at
 secret festive ceremonies in which the pagan traditions were still
 kept up--there continued for a long time a custom of drinking from
 horse-shoes.”[27]
@@ -2489,21 +2493,21 @@ the fellow-sufferer he once had insulted:
      Thine too is the cause! and not more Thine
      Than ours is the work of these dogs and swine,
      Whose life laughs through and spits at their creed,
-     Who maintain Thee in word, and defy Thee in deed!
+     Who maintain Thee in word, and defy Thee in deed![@NESK “]
 
     “We withstood Christ then? be mindful how,
      At least we withstand Barabbas now!
      Was our outrage sore? but the worst we spared.
      To have called these--Christians, had we dared!
      Let defiance of them pay mistrust of Thee,
-     And Rome make amends for Calvary!
+     And Rome make amends for Calvary![@NESK “]
 
     “By the torture prolonged from age to age,
      By the infamy, Israel’s heritage,
      By the Ghetto’s plague, by the garb’s disgrace.
      By the badge of shame, by the felon’s place,
      By the branding tool, the bloody whip,
-     And the summons to Christian fellowship--
+     And the summons to Christian fellowship--[@NESK “]
 
     “We boast our proof that at least the Jew,
      Would wrest Christ’s name from the Devil’s crew
@@ -3030,7 +3034,7 @@ robbery and elopement have been planned, the Jew’s Christian servant,
 Lancelot, says to Jessica:
 
     There will come a Christian by
-    Will be worth a Jewess’ eye.
+    Will be worth a Jewess[@UCSQ]’ eye.
 
 That seems to be a play upon the then familiar phrase “worth a Jew’s
 eye”--a Jew having often to pay an enormous sum in order to avoid
@@ -3188,42 +3192,42 @@ address the Wanderer:
      But when thus wan and hoary
        And broken down you seem,
      The sight can not deceive
-     And we the tale believe.
+     And we the tale believe.[@NESK “]
 
     “Are you that man of sorrow
        Of whom our authors write--
      Grief comes with every morrow,
        And wretchedness at night;
      Oh, let us know are you
-     Isaac, the Wandering Jew?
+     Isaac, the Wandering Jew?[@NESK “]
 
     “Then he replied, ‘Believe me,
        I suffer bitter woe;
      Incessant travels grieve me--
        No rest’s for me below;
      A respite I have never,
-     But onward MARCH forever!
+     But onward MARCH forever![@NESK “ ‘]
 
     “’Twas by my rash behaviour
        I wrought this fearful scathe:
      As Christ our Lord and Saviour
        Was passing to the grave,
      His mild request I spurned,
-     His gentle pleading scorned.
+     His gentle pleading scorned.[@NESK “]
 
     “A secret force expelled me
        That instant from my home,
      And since the Doom hath held me
        Unceasingly to roam--
      But neither day nor night
-     Must check my onward flight.
+     Must check my onward flight.[@NESK “]
 
     “I have no home to hide me,
        No wealth can I display;
      Yet Unknown Powers provide me
        Five farthings every day;
      This always is my store,
-       ’Tis never less nor more.’”
+       ’Tis never less nor more.[@UCSQ]’”
 
 I may here mention an extremely important work, _Histoire de l’Imagerie
 Populaire, par Champfleury_ (Paris: Dentu, 1869), which contains
@@ -3300,7 +3304,7 @@ elicited from a poor Devonshire shoemaker. She was remonstrating with
 him for his indolence and want of spirit, when he astonished her by
 replying, ‘Don’t ’ee be hard on me. We shoemakers are a poor slobbering
 race, and so have been ever since the curse that Jesus Christ laid on
-us.’ ‘And what was that?’ she asked. ‘Why,’ said he, ‘when they were
+us.[@UCSQ]’ ‘And what was that?’ she asked. ‘Why,’ said he, ‘when they were
 carrying him to the cross, they passed a shoemaker’s bench, and the
 man looked up and spat at him; and the Lord turned and said, “A poor
 slobbering fellow shalt thou be, and all shoemakers after thee, for
@@ -3348,7 +3352,7 @@ out, he will see a venerable old man in antique raiment, with grey
 flowing beard and a tall staff, who beseeches his charity with the most
 earnest gesture. Woe to the churl who refuses him water or shelter!
 My old nurse, who was a Warwickshire woman, and, as Sir Walter Scott
-said of his grandmother, ‘a most _awfu’ leer_,’ knew a man who boldly
+said of his grandmother, ‘a most _awfu’ leer_,[@UCSQ]’ knew a man who boldly
 cried out, ‘All very fine, Mr. Ferguson, but you can’t lodge here!’
 And it was decidedly the worst thing he ever did in his life, for
 his best mare fell dead lame, and corn went down I am afraid to say
@@ -3441,7 +3445,7 @@ Chronicle_ elicited the following answer:
   Jewish cast. His clothes appear to be as old as himself. He has never
   been known to be clean: and old people in Hull do not remember the
   counter or floor of his house to have been washed. He is supposed to
-  be emulating ‘Dirty Dick’ of London in this respect.
+  be emulating ‘Dirty Dick’ of London in this respect.[@NESK “]
 
                                                         “GEORGE COOPER.”
 
@@ -3964,7 +3968,7 @@ Full of mockery and derision at this new retrogradation in place of the
 vaunted human evolution, Ahasuerus walks on.
 
 The errors of the age, the doings in the convents, the excesses of the
-Hussites, the mad demeanour of King Wenceslas, only increase Ahasuerus’
+Hussites, the mad demeanour of King Wenceslas, only increase Ahasuerus[@UCSQ]’
 disbelief in the progress of mankind. An angel leads him to Mayence,
 where Gutenberg’s printing-press is seen. Ahasuerus does not believe
 in the importance of this invention. He also thinks Columbus a fool,
@@ -4124,7 +4128,7 @@ when his faith will be one with that of Jesus. In sharp contrast
 with this, the Spaniard enjoys life and its pleasures, with all his
 natural enthusiasm. Between these two, as a mediator, stands Faust,
 susceptible of high and noble things as of the pleasures of the world.
-He opens Ahasuerus’ heart to the love of humanity; he teaches his dim
+He opens Ahasuerus[@UCSQ]’ heart to the love of humanity; he teaches his dim
 eyes to look around him in the world; he shows him all the productions
 of industry and art. In his house he shows him the wonders and first
 performances of typography; he leads him to magnificent Florence,
@@ -4185,7 +4189,7 @@ heart ever brings it forth anew.” Thus Nero pronounces the inner secret
 of the Ahasuerus-myth (according to this poem). And although unable to
 submit to the new doctrine, he consecrates himself to the god of the
 infernal world, exchanging his longing for life with the ardent longing
-for death, according to Ahasuerus’ prophecy. Ahasuerus himself appears
+for death, according to Ahasuerus[@UCSQ]’ prophecy. Ahasuerus himself appears
 in the hour of his adversary’s death among the Christians, and the
 poet, in an original conception, makes him assume towards the end of
 his poem a gigantic shape.
@@ -4402,7 +4406,7 @@ is too great; I see no more the light of thy aureole. Go! thy father
 is dead.’... The firmament has cast its god from its branch, as the
 fig-tree its leaves.... Farewell, worlds, stars, dews of the morning
 and evening, which have saluted me by name when I was a child....
-Is it true? in the night, in the day, afar, near, is there no one?’
+Is it true? in the night, in the day, afar, near, is there no one?[@UCSQ]’
 Echo answers, ‘None.’ ‘Life, truth, falsehood, love, hate, gall and
 vinegar mingled in my pyx--yes, the universe was I. I am a shadow; a
 shadow that for ever passes; I am the tear that ever trickles, the
@@ -4415,7 +4419,7 @@ finished!’ cries the universe-wanderer, who has no Rachel’s tear to
 baptize him. ‘Lay me in the tomb of my Father. Be it so!’ Eternity
 speaks: ‘For the Father and the Son I have digged a grave in a frozen
 star which rolls companionless, without light. The Night, beholding
-that pale star, shall say, ‘This is the tomb of some god.’”
+that pale star, shall say, ‘This is the tomb of some god.’[@UCDQ]”[@NESK ‘]
 
 Then Eternity crumbles the worlds, the sphinx, and even the void,
 ending with a triumphant _Moi_.
@@ -4639,7 +4643,7 @@ face.
      Nul mortel ne connaît sa demeure dernière,
      Personne, excepté moi, n’y versa de prière,
      Et seul l’aigle se pose à la cime où ses os
-     Savourent dans mort un éternel repos.
+     Savourent dans mort un éternel repos.[@NESK “]
 
 It is interesting to contrast this peaceful end of Grenier’s Ahasuerus
 with the invincible Wanderer of Shelley. Nevertheless, the Ahasuerus of
@@ -4724,7 +4728,7 @@ on every subject with such readiness and sagacity as astonished all
 who heard him; and it was, in the third place, observed that he never
 wrote or received any letter, never desired any credit, or made use of
 bills of exchange; but paid for everything in ready money, and lived
-decently, though not in splendour.
+decently, though not in splendour.[@NESK “ ‘]
 
 “‘This gentleman met one day at the coffee-house with a Venetian
 nobleman, who was an extraordinary good judge of pictures; he had
@@ -4868,7 +4872,7 @@ distant successor of Cain.
             With youth’s primeval dauntlessness;
               And inexpressible woe,
           Chastenéd by fearless resignation, gave
-          An awful grace to his all-speaking brow.
+          An awful grace to his all-speaking brow.[@NESK “]
 
       _Spirit._--Is there a God?
 
@@ -4921,7 +4925,7 @@ distant successor of Cain.
     Even as the Almighty’s ire arrested them,
     And in their various attitudes of death,
     My murder’d children’s mute and eyeless skulls,
-    Glared ghastlily upon me.
+    Glared ghastlily upon me.[@NESK “]
 
                               But my soul,
     From sight and sense of the polluting woe
@@ -4949,7 +4953,7 @@ distant successor of Cain.
     The midnight conflict of the wintry storm,
     As in the sunlight’s calm it spreads
     Its worn and wither’d arms on high,
-    To meet the quiet of a summer’s morn.
+    To meet the quiet of a summer’s morn.[@NESK “]
 
                   The Fairy waved her hand:
                   Ahasuerus fled
@@ -4959,7 +4963,7 @@ distant successor of Cain.
     The matter of which dreams are made
     Not more endowed with actual life
     Than this phantasmal portraiture
-    Of wandering human thought.”
+    Of wandering human thought.[@UCDQ]”
 
 This Ahasuerus is not only the fellow Titan of Prometheus, but he is
 the New Ahasuerus-Prometheus who had his fire to bring and his doom to
@@ -4984,20 +4988,20 @@ manifested the serenity of an immortal power, the collected energy of
 a deathless mind, spell-secured from dissolution. A bitter smile of
 mingled abhorrence and scorn distorted his wounded lip--he appeared
 calmly to observe and measure all around--self-possession had not
-deserted the shattered mass of life.
+deserted the shattered mass of life.[@NESK “]
 
 “The youth approached the bough on which the breathing corpse was hung.
 As he approached, the serpent reluctantly unwreathed his glittering
 coils, and crept towards his dark and loathsome cave. The vulture,
 impatient of his meal, fled to the mountain, that re-echoed with his
 hoarse screams. The cedar-branches creaked with their agitating weight,
-faintly, as the dismal wind arose. All else was deadly silent.
+faintly, as the dismal wind arose. All else was deadly silent.[@NESK “]
 
 “At length a voice issued from the mangled man. It rattled in hoarse
 murmurs from his throat and lungs--his words were the conclusion of
 some strange, mysterious soliloquy. They were broken and without
 apparent connection, completing wide intervals of inexpressible
-conceptions.
+conceptions.[@NESK “]
 
 “‘The great tyrant is baffled, even in success. Joy, joy to his
 tortured foe! Triumph to the worm which he tramples under his feet!
@@ -5010,7 +5014,7 @@ thy throne, who, at my voice, shall dare to pluck the golden crown
 from thy unholy head.’ He ceased. The silence of noon swallowed up
 his words. Albedir clung tighter to the tree--he dared not for dismay
 remove his eyes. He remained mute in the perturbation of mute and
-creeping horror.
+creeping horror.[@NESK “]
 
 “‘Albedir,’ said the same voice--‘Albedir, in the name of God,
 approach! He that suffered me to fall watches thee. The gentle and
@@ -5077,28 +5081,28 @@ is treated in this work will sufficiently appear by the following
 passages:
 
 “Every sterner passion that disturbs our nature was to rule in
-successive tyranny over my soul.
+successive tyranny over my soul.[@NESK “]
 
-“Fearfully was the decree fulfilled.
+“Fearfully was the decree fulfilled.[@NESK “]
 
 “In revenge for the fall of Jerusalem, I traversed the country to seek
 out an enemy of Rome. I found in the Northern snows a man of blood: I
-stirred up the soul of Alaric and led him to the sack of Rome.
+stirred up the soul of Alaric and led him to the sack of Rome.[@NESK “]
 
 “In revenge for the insults heaped upon the Jew by the dotards and
 dastards of the city of Constantine, I sought out an instrument of
 compendious ruin: I found him in the Arabian sands, and poured ambition
-into the soul of the enthusiast of Mecca.
+into the soul of the enthusiast of Mecca.[@NESK “]
 
 “In revenge for the pollution of the ruins of the Temple, I roused the
 iron tribes of the West, and at the head of the Crusaders, expelled the
-Saracens. I fed full on revenge, and I felt the misery of revenge!
+Saracens. I fed full on revenge, and I felt the misery of revenge![@NESK “]
 
 “A passion for the mysteries of nature seized me. I talked with the
 Alchemist. I wore away years in the perplexities of the schoolmen; and
-I felt the guilt and emptiness of unlawful knowledge.
+I felt the guilt and emptiness of unlawful knowledge.[@NESK “]
 
-“A passion for human fame seized me. A passion for gold!...
+“A passion for human fame seized me. A passion for gold!...[@NESK “]
 
 “I found a bold Genoese. I led him to discover the New World; with its
 metals I inundated the Old; and to my own misery added the misery of
@@ -5118,32 +5122,32 @@ not where to lay his head.”
     “Though the torrents from their fountains
        Roar down many a craggy steep,
      Yet they find among the mountains
-       Resting-places calm and deep.
+       Resting-places calm and deep.[@NESK “]
 
     “Clouds that love through air to hasten,
        Ere the storm its fury stills,
      Helmet-like themselves will fasten
-       On the heads of towering hills.
+       On the heads of towering hills.[@NESK “]
 
     “What if through the frozen centre
        Of the Alps the chamois bound,
      Yet he has a home to enter
-       In some nook of chosen ground.
+       In some nook of chosen ground.[@NESK “]
 
     “If on windy days the raven
        Gambol like a dancing skiff,
      Not the less she loves her haven
-       In the bosom of the cliff.
+       In the bosom of the cliff.[@NESK “]
 
     “Though the sea-horse in the ocean
        Own no dear domestic cave,
      Yet he slumbers--by the motion
-       Rocked of many a gentle wave.
+       Rocked of many a gentle wave.[@NESK “]
 
     “The fleet ostrich, till day closes,
        Vagrant over desert sands,
      Brooding on her eggs reposes
-       When chill night that care demands.
+       When chill night that care demands.[@NESK “]
 
     “Day and night my toils redouble,
        Never nearer to the goal;
@@ -5282,7 +5286,7 @@ people;” the fact that so much labour can be expended on these notions
 by a man otherwise educated, the author apparently of several legal
 works, are phenomena to excite reflections. There is a good deal of
 suggestiveness, too, in the link between Austin Friars and Grosvenor
-Square. Cartaphilus, going his eternal round with cry of “O’ clo’!”
+Square. Cartaphilus, going his eternal round with cry of “O’ clo[@UCSQ]’!”
 has finally, it would appear, discovered that he need only have his
 Judaism baptized to be one of “Christ’s flock,” pastured as richly in
 the fashionable Square.
@@ -5902,24 +5906,24 @@ chaos; the actor, not of all the actions of living things, but only of
 the good actions; for a bad action is one by which the organism tends
 to be less organic, and acts for a time as if inorganic. To this mother
 of life, personifying herself in the good works of humanity, it seems
-to me we may fitly address a splendid hymn of Mr. Swinburne’s:
+to me we may fitly address a splendid hymn of Mr. Swinburne’s:[@NESK “]
 
     “Mother of man’s time-travelling generations,
        Breath of his nostrils, heart-blood of his heart,
      God above all Gods worshipped of all nations,
-       Light above light, law beyond law, thou art.
+       Light above light, law beyond law, thou art.[@NESK “]
 
     “Thy face is as a sword smiting in sunder
        Shadows and chains and dreams and iron things;
      The sea is dumb before thy face, the thunder
-       Silent, the skies are narrower than thy wings.
+       Silent, the skies are narrower than thy wings.[@NESK “]
 
           *      *      *      *      *
 
     “All old grey histories hiding thy clear features,
        O secret spirit and sovereign, all men’s tales,
      Creeds woven of men thy children and thy creatures,
-       They have woven for vestures of thee and for veils.
+       They have woven for vestures of thee and for veils.[@NESK “]
 
     “Thine hands, without election or exemption,
        Feed all men fainting from false peace or strife,
@@ -6315,7 +6319,7 @@ colour into universal discredit.... The Inquisition has adopted it for
 the _Sambeníto_, a coat of infamy, which persons convicted of heresy
 are compelled to wear. The red hair of Judas, like Peter’s baldness,
 seems to be agreed upon by all the painters and sculptors of Europe.
-_Judas’ hair_ is a usual name in Spain; and a similar appellation,
+_Judas[@UCSQ]’ hair_ is a usual name in Spain; and a similar appellation,
 it should seem, was used in England in Shakspeare’s time. ‘His hair’
 says Rosalind, ‘is of the dissembling colour.’ To which Celia answers
 ‘Something browner than Judas’s.’”

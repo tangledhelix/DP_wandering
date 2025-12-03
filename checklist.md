@@ -245,10 +245,10 @@ p. 123: changed “foo” to “fool” (the fool and his money)
 ```
 
 ### Final review
-* [ ] Skim over text file to find any obvious issues
+* [x] Skim over text file to find any obvious issues
 
 ### Validation
-* [ ] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
+* [x] Run [PWBB](https://www.pgdp.net/ppwb/index.php) pptext check
 
 ## Prepare the HTML Version
 Finally, we create an HTML version of the book.
