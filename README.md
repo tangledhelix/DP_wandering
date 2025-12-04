@@ -21,33 +21,33 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [ ] First words of chapters rendered in smallcaps
 * [ ] 005: table of contents
 * [x] 011: birth year & year being a bishop for de Mousket are impossible
-* [ ] 028: poetry
-* [ ] 039: poetry
-* [ ] 050: poetry
-* [ ] 077: poetry (2)
-* [ ] 126-127: poetry
-* [ ] 149: poetry
-* [ ] 150: poetry
-* [ ] 152: poetry
-* [ ] 157: poetry
-* [ ] 159-160: poetry
-* [ ] 162: poetry (2)
-* [ ] 165-166: poetry
-* [ ] 171: right-aligned (signature on blockquote)
-* [ ] 219: poetry / blackletter
-* [ ] 220: poetry
-* [ ] 222: poetry
-* [ ] 229: poetry
-* [ ] 230: poetry
-* [ ] 236: poetry
-* [ ] 237: poetry (2)
-* [ ] 239: poetry
-* [ ] 239-242: poetry
-* [ ] 246: poetry (2)
-* [ ] 249-250: poetry
-* [ ] 285: poetry
-* [ ] 286: poetry
-* [ ] 292: poetry
+* [x] 028: poetry
+* [x] 039: poetry
+* [x] 050: poetry
+* [x] 077: poetry (2)
+* [x] 126-127: poetry
+* [x] 149: poetry
+* [x] 150: poetry
+* [x] 152: poetry
+* [x] 157: poetry
+* [x] 159-160: poetry
+* [x] 162: poetry (2)
+* [x] 165-166: poetry
+* [x] 171: right-aligned (signature on blockquote)
+* [x] 219: poetry / blackletter
+* [x] 220: poetry
+* [x] 222: poetry
+* [x] 229: poetry
+* [x] 230: poetry
+* [x] 236: poetry
+* [x] 237: poetry (2)
+* [x] 239: poetry
+* [x] 239-242: poetry
+* [x] 246: poetry (2)
+* [x] 249-250: poetry
+* [x] 285: poetry
+* [x] 286: poetry
+* [x] 292: poetry
 
 ### Project manager notes ###
 
