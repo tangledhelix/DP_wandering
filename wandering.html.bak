@@ -292,7 +292,7 @@ abbr.spell { speak: spell-out; }
 .poetry .indent2 {text-indent: -2.0em;}
 .poetry .indent3 {text-indent: -1.5em;}
 .poetry .indent6 {text-indent: 0.0em;}
-.poetry .indent7 {text-indent: 0.5em;}
+.poetry .indent7 {text-indent: 0.2em;}
 .poetry .indent8 {text-indent: 1.0em;}
 .poetry .indent10 {text-indent: 2.0em;}
 .poetry .indent12 {text-indent: 3.0em;}
@@ -446,72 +446,72 @@ lore as this of the Wandering Jew.</p>
 </tr>
 <tr>
 <td class="tdr">VII.</td>
-<td class="tdl">THE MARK OF CAIN</td>
+<td class="tdl"><a href="#CHAPTER_VII">THE MARK OF CAIN</a></td>
 <td class="tdr">71</td>
 </tr>
 <tr>
 <td class="tdr">VIII.</td>
-<td class="tdl">THE JEW IN THEOLOGY</td>
+<td class="tdl"><a href="#CHAPTER_VIII">THE JEW IN THEOLOGY</a></td>
 <td class="tdr">80</td>
 </tr>
 <tr>
 <td class="tdr">IX.</td>
-<td class="tdl">THE JEW IN FOLK-LORE</td>
+<td class="tdl"><a href="#CHAPTER_IX">THE JEW IN FOLK-LORE</a></td>
 <td class="tdr">87</td>
 </tr>
 <tr>
 <td class="tdr">X.</td>
-<td class="tdl">THE WEIRD OF THE WANDERER</td>
+<td class="tdl"><a href="#CHAPTER_X">THE WEIRD OF THE WANDERER</a></td>
 <td class="tdr">93</td>
 </tr>
 <tr>
 <td class="tdr">XI.</td>
-<td class="tdl">“THE VERY DEVIL INCARNATION”</td>
+<td class="tdl"><a href="#CHAPTER_XI">“THE VERY DEVIL INCARNATION”</a></td>
 <td class="tdr">104</td>
 </tr>
 <tr>
 <td class="tdr">XII.</td>
-<td class="tdl">THE WANDERING RACE</td>
+<td class="tdl"><a href="#CHAPTER_XII">THE WANDERING RACE</a></td>
 <td class="tdr">109</td>
 </tr>
 <tr>
 <td class="tdr">XIII.</td>
-<td class="tdl">THE POUND OF FLESH</td>
+<td class="tdl"><a href="#CHAPTER_XIII">THE POUND OF FLESH</a></td>
 <td class="tdr">118</td>
 </tr>
 <tr>
 <td class="tdr">XIV.</td>
-<td class="tdl">THE WANDERING JEW IN FOLK-LORE</td>
+<td class="tdl"><a href="#CHAPTER_XIV">THE WANDERING JEW IN FOLK-LORE</a></td>
 <td class="tdr">150</td>
 </tr>
 <tr>
 <td class="tdr">XV.</td>
-<td class="tdl">THE NEW AHASUERUS IN GERMANY</td>
+<td class="tdl"><a href="#CHAPTER_XV">THE NEW AHASUERUS IN GERMANY</a></td>
 <td class="tdr">166</td>
 </tr>
 <tr>
 <td class="tdr">XVI.</td>
-<td class="tdl">THE NEW AHASUERUS IN FRANCE</td>
+<td class="tdl"><a href="#CHAPTER_XVI">THE NEW AHASUERUS IN FRANCE</a></td>
 <td class="tdr">204</td>
 </tr>
 <tr>
 <td class="tdr">XVII.</td>
-<td class="tdl">THE NEW AHASUERUS IN ENGLAND</td>
+<td class="tdl"><a href="#CHAPTER_XVII">THE NEW AHASUERUS IN ENGLAND</a></td>
 <td class="tdr">225</td>
 </tr>
 <tr>
 <td class="tdr">XVIII.</td>
-<td class="tdl">AHASUERUS VINCTUS</td>
+<td class="tdl"><a href="#CHAPTER_XVIII">AHASUERUS VINCTUS</a></td>
 <td class="tdr">249</td>
 </tr>
 <tr>
 <td class="tdr">XIX.</td>
-<td class="tdl">AHASUERUS DELIVERED</td>
+<td class="tdl"><a href="#CHAPTER_XIX">AHASUERUS DELIVERED</a></td>
 <td class="tdr">269</td>
 </tr>
 <tr>
 <td class="tdr">XX.</td>
-<td class="tdl">THREE WITNESSES</td>
+<td class="tdl"><a href="#CHAPTER_XX">THREE WITNESSES</a></td>
 <td class="tdr">281</td>
 </tr>
 </table>
@@ -6948,7 +6948,7 @@ this feature in the distant successor of Cain.</p>
       <div class="verse indent0">Gorgeous and vast: the costly altars smoked</div>
       <div class="verse indent0">With human blood, and hideous pæans rang,</div>
       <div class="verse indent0">Through all the long-drawn aisles.</div>
-      <div class="verse indent6">*      *      *      *      *</div>
+      <div class="verse indent0"><span class="star">*</span><span class="star">*</span><span class="star">*</span><span class="star">*</span><span class="star">*</span></div>
       <div class="verse indent0">“O Spirit! centuries have set their seal,</div>
       <div class="verse indent0">On this heart of many wounds, and loaded brain,</div>
       <div class="verse indent0">Since the Incarnate came: humbly he came,</div>

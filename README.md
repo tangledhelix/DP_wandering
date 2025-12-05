@@ -18,8 +18,8 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
     * [x] 076
 * [x] Footnotes throughout book
 * [x] Several inconsistent uses noted, of single & double quotes (i.e. single opens, double closes, or vice-versa). Also strange usage such as double-quotes on a phrase and the reply is in single-quotes. Review for consistency.
-* [ ] First words of chapters rendered in smallcaps
-* [ ] 005: table of contents
+* [x] First words of chapters rendered in smallcaps
+* [x] 005: table of contents
 * [x] 011: birth year & year being a bishop for de Mousket are impossible
 * [x] 028: poetry
 * [x] 039: poetry
