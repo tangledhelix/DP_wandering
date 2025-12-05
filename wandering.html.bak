@@ -22,6 +22,7 @@ h1,h2,h3,h4,h5,h6 {
 .title-xs { font-size: 65%; }
 .title-small { font-size: 85%; }
 .title-large { font-size: 125%; }
+.titleh2 { font-size: 1.5em; font-weight: bold; }
 
 p {
     margin-top: .51em;
@@ -329,10 +330,8 @@ WANDERING JEW
 1881</p>
 
 
-<p><span class="pagenum" id="Page_iv">[Pg iv]</span></p>
-
-
-<p class="center p2"><span class="smcap">Copyright, 1881,<br>
+<p class="center p2"><span class="pagenum" id="Page_iv">[Pg iv]</span>
+<span class="smcap">Copyright, 1881,<br>
 by</span><br>
 MONCURE D. CONWAY.</p>
 
@@ -349,7 +348,7 @@ MONCURE D. CONWAY.</p>
 </div>
 
 
-<p>It might be offered as a sufficient reason for writing this
+<p class="noindent"><span class="smcap">It</span> might be offered as a sufficient reason for writing this
 book that no other treatise on the same subject exists in
 our language. But to this it may be added, that in pamphlets
 that have appeared in other languages, the relations of
@@ -456,37 +455,18 @@ lore as this of the Wandering Jew.</p>
 
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
-
-<p><span class="pagenum"><a id="Page_viii"></a><a id="Page_1"></a>[Pg 1]</span></p>
-
-
-  <h2 class="nobreak" id="THE_WANDERING_JEW">
+  <span class="pagenum"><a id="Page_2"></a><a id="Page_3"></a>[Pg 3]</span>
+  <p class="center titleh2" id="THE_WANDERING_JEW_1">
     THE WANDERING JEW.
-
-<span class="pagenum"><a id="Page_2"></a><a id="Page_3"></a>[Pg 3]</span>
-  </h2>
-</div>
-
-
-<hr class="chap x-ebookmaker-drop">
-<div class="chapter">
-  <h2 class="nobreak" id="THE_WANDERING_JEW_1">
-    THE WANDERING JEW.
-  </h2>
-</div>
-
-
-<hr class="chap x-ebookmaker-drop">
-<div class="chapter">
-  <h2 class="nobreak" id="I">
-    I.
-    <br>
+  </p>
+  <h2 class="nobreak p2" id="CHAPTER_I">
+    I.<br>
     THE LEGEND.
   </h2>
 </div>
 
 
-<p>In the year 1228, an Armenian bishop visited
+<p class="noindent"><span class="smcap">In</span> the year 1228, an Armenian bishop visited
 England; and the purport of his conversation is
 recorded in the <i>Historia Major</i>, begun by Roger de
 Wendover and completed (anno 1259) by Matthæus
@@ -1211,7 +1191,7 @@ rumours that they were concealing the Wanderer.</p>
 <p><span class="pagenum" id="Page_29">[Pg 29]</span></p>
 
 
-  <h2 class="nobreak" id="II">
+  <h2 class="nobreak" id="CHAPTER_II">
     II.
     <br>
     THE UNDYING ONES.
@@ -1219,7 +1199,7 @@ rumours that they were concealing the Wanderer.</p>
 </div>
 
 
-<p>The myth of the Wandering Jew belongs, essentially,
+<p class="noindent"><span class="smcap">The</span> myth of the Wandering Jew belongs, essentially,
 to a class which has great antiquity, and is found in
 every part of the world.</p>
 
@@ -1449,7 +1429,7 @@ touched at last.</p>
 <p><span class="pagenum" id="Page_38">[Pg 38]</span></p>
 
 
-  <h2 class="nobreak" id="III">
+  <h2 class="nobreak" id="CHAPTER_III">
     III.
     <br>
     SOURCES OF THE MYTH.
@@ -1457,7 +1437,7 @@ touched at last.</p>
 </div>
 
 
-<p>Although, as we have seen, the myths of the
+<p class="noindent"><span class="smcap">Although</span>, as we have seen, the myths of the
 undying ones are found among races so widely
 separate that they must often be of independent
 origin, many of them are ethnically related. This is
@@ -1827,7 +1807,7 @@ with Hugo wandering beside their grotto.</p>
 <p><span class="pagenum" id="Page_52">[Pg 52]</span></p>
 
 
-  <h2 class="nobreak" id="IV">
+  <h2 class="nobreak" id="CHAPTER_IV">
     IV.
     <br>
     THE LEGENDS GENERALISED.
@@ -1835,7 +1815,7 @@ with Hugo wandering beside their grotto.</p>
 </div>
 
 
-<p>If we examine well the account in the Zendavesta
+<p class="noindent"><span class="smcap">If</span> we examine well the account in the Zendavesta
 of the paradise wherein Yima walked with Ahuramazda,
 and that in Genesis of Eden where Enoch
 walked with Elohim, we can hardly fail to recognise
@@ -1934,7 +1914,7 @@ die.”</p>
 <p><span class="pagenum" id="Page_56">[Pg 56]</span></p>
 
 
-  <h2 class="nobreak" id="V">
+  <h2 class="nobreak" id="CHAPTER_V">
     V.
     <br>
     TRANSFIGURATION.
@@ -1942,7 +1922,7 @@ die.”</p>
 </div>
 
 
-<p>Though the alleged longevity of the Jewish patriarchs
+<p class="noindent"><span class="smcap">Though</span> the alleged longevity of the Jewish patriarchs
 temporarily made up for the absence of the
 conception of immortality, this idea arrived. The
 representatives of Seth live above an average of
@@ -2172,7 +2152,7 @@ never reappeared.</p>
 <p><span class="pagenum" id="Page_65">[Pg 65]</span></p>
 
 
-  <h2 class="nobreak" id="VI">
+  <h2 class="nobreak" id="CHAPTER_VI">
     VI.
     <br>
     MANTLES OF THE IMMORTALS.
@@ -2180,7 +2160,7 @@ never reappeared.</p>
 </div>
 
 
-<p>We have already seen that in the Gospel of Nicodemus
+<p class="noindent"><span class="smcap">We</span> have already seen that in the Gospel of Nicodemus
 (xxv.), Enoch and Elias are represented as welcoming
 those who arrive in Paradise. In an Arabian legend
 Grässe finds an important form of this tradition. It is
@@ -2330,7 +2310,7 @@ of the Greek κάρτα φίλος, signifying “the Beloved.”</p>
 <p><span class="pagenum" id="Page_71">[Pg 71]</span></p>
 
 
-  <h2 class="nobreak" id="VII">
+  <h2 class="nobreak" id="CHAPTER_VII">
     VII.
     <br>
     THE MARK OF CAIN.
@@ -2338,7 +2318,7 @@ of the Greek κάρτα φίλος, signifying “the Beloved.”</p>
 </div>
 
 
-<p>In the Oberammergau Passion Play, where scenes
+<p class="noindent"><span class="smcap">In</span> the Oberammergau Passion Play, where scenes
 from the New Testament are preceded by tableaux
 from the Old, Cain killing Abel is made to foreshadow
 Judas betraying Jesus. In some Eastern lands Cain
@@ -2582,7 +2562,7 @@ John, we have, he thinks, the story of Cartaphilus.</p>
 <p><span class="pagenum" id="Page_80">[Pg 80]</span></p>
 
 
-  <h2 class="nobreak" id="VIII">
+  <h2 class="nobreak" id="CHAPTER_VIII">
     VIII.
     <br>
     THE JEW IN THEOLOGY.
@@ -2590,7 +2570,7 @@ John, we have, he thinks, the story of Cartaphilus.</p>
 </div>
 
 
-<p>The fable concerning Judas is one of many which
+<p class="noindent"><span class="smcap">The</span> fable concerning Judas is one of many which
 indicate the formation of a special Christian doctrine
 concerning the Jewish race.</p>
 
@@ -2771,7 +2751,7 @@ Festival of the Golden Rule.</p>
 <p><span class="pagenum" id="Page_87">[Pg 87]</span></p>
 
 
-  <h2 class="nobreak" id="IX">
+  <h2 class="nobreak" id="CHAPTER_IX">
     IX.
     <br>
     THE JEW IN FOLK-LORE.
@@ -2779,7 +2759,7 @@ Festival of the Golden Rule.</p>
 </div>
 
 
-<p>It is related in the <i>Legenda Aurca</i> of John Capgrave
+<p class="noindent"><span class="smcap">It</span> is related in the <i>Legenda Aurca</i> of John Capgrave
 that St. Brendain, on his famous voyage, came to an
 island filled with beautiful birds whose music entranced
 the souls of listeners. The birds told the
@@ -2929,7 +2909,7 @@ severely handled by the pro-consul.</p>
 <p><span class="pagenum" id="Page_93">[Pg 93]</span></p>
 
 
-  <h2 class="nobreak" id="X">
+  <h2 class="nobreak" id="CHAPTER_X">
     X.
     <br>
     THE WEIRD OF THE WANDERER.
@@ -2937,7 +2917,7 @@ severely handled by the pro-consul.</p>
 </div>
 
 
-<p>There is one class of survivals from the fatalistic
+<p class="noindent"><span class="smcap">There</span> is one class of survivals from the fatalistic
 ideas of all so-called paganisms which have always
 been very strong in the popular mind of Europe. It
 was a creed in which all ancient faiths converged,
@@ -3230,7 +3210,7 @@ Christian uniform.</p>
 <p><span class="pagenum" id="Page_104">[Pg 104]</span></p>
 
 
-  <h2 class="nobreak" id="XI">
+  <h2 class="nobreak" id="CHAPTER_XI">
     XI.
     <br>
     “THE VERY DEVIL INCARNATION.”
@@ -3238,7 +3218,7 @@ Christian uniform.</p>
 </div>
 
 
-<p>“Enter Launcelot Gobbo!” So begins Scene ii. of
+<p class="noindent">“<span class="smcap">Enter</span> Launcelot Gobbo!” So begins Scene ii. of
 Act II. in the <i>Merchant of Venice</i>. Or as the original
 stage-direction ran, “Enter the Clown!” His very
 name suggests the glutton and knave, yet it seems to
@@ -3352,7 +3332,7 @@ and every stream their Phlegethon.</p>
 <p><span class="pagenum" id="Page_109">[Pg 109]</span></p>
 
 
-  <h2 class="nobreak" id="XII">
+  <h2 class="nobreak" id="CHAPTER_XII">
     XII.
     <br>
     THE WANDERING RACE.
@@ -3360,7 +3340,7 @@ and every stream their Phlegethon.</p>
 </div>
 
 
-<p>Professor Child, of Harvard University, has remarked
+<p class="noindent"><span class="smcap">Professor Child</span>, of Harvard University, has remarked
 that, “in the second form of the legend, the
 punishment of perpetual existence, which gives rise to
 the old names, <i>Judæus non mortalis</i>, <i>Ewiger Jude</i>, is
@@ -3589,7 +3569,7 @@ formulas, from which they did not dare to venture.</p>
 <p><span class="pagenum" id="Page_118">[Pg 118]</span></p>
 
 
-  <h2 class="nobreak" id="XIII">
+  <h2 class="nobreak" id="CHAPTER_XIII">
     XIII.
     <br>
     THE POUND OF FLESH.
@@ -3597,7 +3577,7 @@ formulas, from which they did not dare to venture.</p>
 </div>
 
 
-<p>Passing out of Rome by the Via Appia, one comes
+<p class="noindent"><span class="smcap">Passing</span> out of Rome by the Via Appia, one comes
 to many places of antiquarian interest, but presently
 arrives at a spot whose significance increases with
 time. This is the church called <i>Domine quo vadis</i>.
@@ -4487,7 +4467,7 @@ only services shall be man’s service to man.</p>
 <p><span class="pagenum" id="Page_150">[Pg 150]</span></p>
 
 
-  <h2 class="nobreak" id="XIV">
+  <h2 class="nobreak" id="CHAPTER_XIV">
     XIV.
     <br>
     THE WANDERING JEW IN FOLK-LORE.
@@ -4495,7 +4475,7 @@ only services shall be man’s service to man.</p>
 </div>
 
 
-<p>In the East and South, beneath climes that suggest
+<p class="noindent"><span class="smcap">In</span> the East and South, beneath climes that suggest
 an ideal paradise of repose or idle felicity, the undying
 saints were represented as dwelling in enchanted
 islands far from the toiling world, or slumbering in
@@ -4960,7 +4940,7 @@ resurrection from the sleep of death!</p>
 <p><span class="pagenum" id="Page_166">[Pg 166]</span></p>
 
 
-  <h2 class="nobreak" id="XV">
+  <h2 class="nobreak" id="CHAPTER_XV">
     XV.
     <br>
     THE NEW AHASUERUS IN GERMANY.
@@ -4968,7 +4948,7 @@ resurrection from the sleep of death!</p>
 </div>
 
 
-<p>Having, as a figure of popular faith, gathered to him
+<p class="noindent"><span class="smcap">Having</span>, as a figure of popular faith, gathered to him
 all related elements of mould and decay, and found fit
 extinction in the Newcastle “fossil” just mentioned,
 Ahasuerus rises for new wanderings as a poetic
@@ -5997,7 +5977,7 @@ moved by Goethe.</p>
 <p><span class="pagenum" id="Page_204">[Pg 204]</span></p>
 
 
-  <h2 class="nobreak" id="XVI">
+  <h2 class="nobreak" id="CHAPTER_XVI">
     XVI.
     <br>
     THE NEW AHASUERUS IN FRANCE.
@@ -6005,7 +5985,7 @@ moved by Goethe.</p>
 </div>
 
 
-<p>In the year 1833 Edgar Quinet published his “Mystery”
+<p class="noindent"><span class="smcap">In</span> the year 1833 Edgar Quinet published his “Mystery”
 entitled <i>Ahasuerus</i>. It seems an amazing fact
 that a work of this importance should never have been
 translated into English. It was well appreciated in
@@ -6595,7 +6575,7 @@ France—</p>
 <p><span class="pagenum" id="Page_225">[Pg 225]</span></p>
 
 
-  <h2 class="nobreak" id="XVII">
+  <h2 class="nobreak" id="CHAPTER_XVII">
     XVII.
     <br>
     THE NEW AHASUERUS IN ENGLAND.
@@ -6603,7 +6583,7 @@ France—</p>
 </div>
 
 
-<p>The old Ahasuerus had his day in England. While
+<p class="noindent"><span class="smcap">The</span> old Ahasuerus had his day in England. While
 he was personally wandering about the world, however,
 in the guise of the pious pretender, pouring his
 cant into every long ear he could find, clever English
@@ -7372,7 +7352,7 @@ lark above ruins sadder than all the rest.</p>
 <p><span class="pagenum" id="Page_249">[Pg 249]</span></p>
 
 
-  <h2 class="nobreak" id="XVIII">
+  <h2 class="nobreak" id="CHAPTER_XVIII">
     XVIII.
     <br>
     AHASUERUS VINCTUS.
@@ -7380,7 +7360,7 @@ lark above ruins sadder than all the rest.</p>
 </div>
 
 
-<p>Here before me is a formidable array of large—one
+<p class="noindent"><span class="smcap">Here</span> before me is a formidable array of large—one
 might almost say fat—volumes, which I have hardly
 known whether to assign to England or Germany, but
 conclude that they belong to both, and also to America,
@@ -7921,7 +7901,7 @@ and pursue the equal welfare of mankind.</p>
 <p><span class="pagenum" id="Page_269">[Pg 269]</span></p>
 
 
-  <h2 class="nobreak" id="XIX">
+  <h2 class="nobreak" id="CHAPTER_XIX">
     XIX.
     <br>
     AHASUERUS DELIVERED.
@@ -7929,7 +7909,7 @@ and pursue the equal welfare of mankind.</p>
 </div>
 
 
-<p>There are certain races of mankind whose history or
+<p class="noindent"><span class="smcap">There</span> are certain races of mankind whose history or
 whose character has made them the tests of civilisation.
 In one direction the negro has been such. In
 the development of English self-government, on both
@@ -8278,7 +8258,7 @@ of Mr. Swinburne’s:</p>
 <p><span class="pagenum" id="Page_281">[Pg 281]</span></p>
 
 
-  <h2 class="nobreak" id="XX">
+  <h2 class="nobreak" id="CHAPTER_XX">
     XX.
     <br>
     THREE WITNESSES.
@@ -8286,7 +8266,7 @@ of Mr. Swinburne’s:</p>
 </div>
 
 
-<p>In Prague there is an ancient Synagogue, the interior
+<p class="noindent"><span class="smcap">In</span> Prague there is an ancient Synagogue, the interior
 of which is black with the mould and dust of seven
 centuries. There is a tradition that at some unknown
 point in it the holy name of Jahve is written, and, for
@@ -8615,7 +8595,7 @@ of Man is at hand</span>.</p>
 <hr class="chap x-ebookmaker-drop">
 <div class="chapter">
   <h2 class="nobreak" id="FOOTNOTES">
-    FOOTNOTES:
+    FOOTNOTES
   </h2>
 </div>
 
