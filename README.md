@@ -48,6 +48,7 @@ Page references (e.g. `001`) refer to the scan numbers, not the original book's 
 * [x] 285: poetry
 * [x] 286: poetry
 * [x] 292: poetry
+* [x] re-do cover image to cut out library stamps
 
 ### Project manager notes ###
 
@@ -96,8 +97,8 @@ Research indicates that "Augspurg" is a legitimate, though archaic, alternative 
 
 ### Illustrations ###
 
-* [ ] no cover provided; use title page?
-* [ ] 001 publisher logo
+* [x] no cover provided; use title page?
+* [x] 001 publisher logo
 
 ### Proofer's notes ###
 
