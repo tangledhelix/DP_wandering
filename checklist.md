@@ -290,11 +290,11 @@ References: ([p1347865](https://www.pgdp.net/phpBB3/viewtopic.php?p=1347865#p134
 * [x] Remove the [Generated TOC](https://www.pgdp.net/wiki/PPTools/Guiguts/Guiguts_Manual/HTML_Menu#Generated_TOC) if it is not needed.
 * [x] If `A.M.` `P.M.` or similar abbreviations were used and have spaces, insert `&nbsp;` to avoid undesirable mid-abbreviation line wraps.
 * [x] If superscripts were used, convert to `<sup>`
-* [ ] Semantic fixup for italics
+* [x] Semantic fixup for italics
   * Use the Regex Library tool and italic_semantics.json.
   * Note: `lang="xx"` can be used on **any** HTML tag including `cite`, `em`, ...
   * [List of language codes](http://www.w3schools.com/tags/ref_language_codes.asp)
-* [ ] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
+* [x] Add `abbr` tags if appropriate. ([Reference](https://www.pgdp.net/wiki/Accessibility_Recipes/Abbreviations))
 
 ### Fractions
 For consistency the superscript/subscript form of fractions might be best (e.g. the 3-character ¹⁄₂ vs. single-character ½). A few fractions have a single character form but most do not. And fractions like 5/16 have no 3-char form even, you need 4 ...
